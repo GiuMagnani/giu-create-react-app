@@ -6,7 +6,7 @@ class App extends Component {
       <div className="App">
         <header className="App-header">
           <h1>
-            My new create-react-app project ⚛︎
+            My new create-react-app project ⚛️
           </h1>
         </header>
       </div>
